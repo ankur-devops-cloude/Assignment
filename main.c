@@ -17,7 +17,14 @@ Security Patch
 		//sameple for security code
 	}
 }
- master
+
 
 	}
+Feature2 code
+{
+	Feature2()
+	{
+		//sample code of feature2
+	}
+}
 }

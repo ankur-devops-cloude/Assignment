@@ -11,7 +11,6 @@ Feature1 code
 		{
 			//sample of feature1
 		}
-=======
 Security Patch
 {
 	Security()
@@ -19,7 +18,16 @@ Security Patch
 		//sameple for security code
 	}
 }
->>>>>>> master
+ master
 
 	}
+=======
+Feature2 code
+{
+	Feature2()
+	{
+		//sample code of feature2
+	}
+}
+>>>>>>> feature2
 }
