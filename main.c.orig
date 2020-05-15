@@ -4,12 +4,14 @@ Pseudo code
 	{
 		//sample code
 	}
+<<<<<<< HEAD
 Feature1 code
 	{
 		feature1()
 		{
 			//sample of feature1
 		}
+=======
 Security Patch
 {
 	Security()
@@ -17,7 +19,7 @@ Security Patch
 		//sameple for security code
 	}
 }
- master
+>>>>>>> master
 
 	}
 }
